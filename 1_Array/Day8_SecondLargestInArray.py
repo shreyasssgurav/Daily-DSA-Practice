@@ -1,6 +1,5 @@
 n = int(input("Enter the size of array:"))
 arr = []
-k = 0
 
 print("Enter the elements you want to insert:")
 for i in range(n):
